@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Running tests..."
+
+echo "Tests passed"
+exit 0

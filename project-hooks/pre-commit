@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "Running commit checks..."
+
+if ! git diff --cached --quiet; then
+  echo "Commit OK"
+else
+  echo "No staged changes!"
+  exit 1
+fi
