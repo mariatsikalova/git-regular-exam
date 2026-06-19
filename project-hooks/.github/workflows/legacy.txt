@@ -1,1 +1,2 @@
 This branch simulates corrupted history
+Work day 1
