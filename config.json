@@ -1,5 +1,9 @@
 {
   "version": "2.0",
+<<<<<<< HEAD
   "auth": true,
   "dashboard": true
+=======
+  "auth": true
+>>>>>>> conflict-fix
 }
